@@ -1,5 +1,3 @@
 -- first commit
 -- changes by Dev2
 1. Cherry pick commit - 1
-2. Cherry Pick Commit - 2
-3. Cherry pick commit - 3
